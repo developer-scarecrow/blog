@@ -1,0 +1,28 @@
+.card .card-image {
+  padding-top: 10px;
+}
+
+.card .card-image .card-title {
+  position: relative;
+}
+
+.btn-floating.halfway-fab {
+  bottom: 0px;
+}
+
+.card-chips {
+  padding: 0 24px;
+}
+
+.card-chips .chip {
+  margin-top: 10px;
+}
+
+.card-chips .chip .chips-icon {
+  font-size:20px;
+  vertical-align: text-bottom;
+}
+
+.card-chips .chip .chips-text {
+  padding-left: 5px;
+}
